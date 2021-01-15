@@ -526,9 +526,9 @@ exports.sendMail = functions.https.onRequest((req, res) => {
                                         class="font11"
                                       >
                                         <a
-                                          href="mailto:zachary@gmail.com"
+                                          href="mailto:sunil.lakkakula@gmail.com"
                                           style="color:#ffffff; text-decoration:none!important"
-                                          >zachary@gmail.com</a
+                                          >sunil.lakkakula@gmail.com</a
                                         >
                                       </td>
                                     </tr>
@@ -1110,9 +1110,9 @@ exports.sendMail = functions.https.onRequest((req, res) => {
                                         class="font11"
                                       >
                                         <a
-                                          href="mailto:zachary@gmail.com"
+                                          href="mailto:sunil.lakkakula@gmail.com"
                                           style="color:#ffffff; text-decoration:none!important"
-                                          >zachary@gmail.com</a
+                                          >sunil.lakkakula@gmail.com</a
                                         >
                                       </td>
                                     </tr>
